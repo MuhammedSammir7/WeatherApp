@@ -27,6 +27,7 @@ class MainVC: UIViewController {
 }
 
 
+
 extension MainVC {
     func ApiRequest(){
         let prams = ["id": cityId, "appid": "55a35a027df386a4fcdba69bcb984b06"]

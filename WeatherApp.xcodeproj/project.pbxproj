@@ -82,7 +82,6 @@
 				818040602B7FC97500CC48AB /* AppDelegate.swift */,
 				818040622B7FC97500CC48AB /* SceneDelegate.swift */,
 				818040692B7FC97900CC48AB /* Assets.xcassets */,
-				8180406B2B7FC97900CC48AB /* LaunchScreen.storyboard */,
 				8180406E2B7FC97900CC48AB /* Info.plist */,
 			);
 			path = WeatherApp;
@@ -91,6 +90,7 @@
 		81D2E4572B8A2E2800BACC9E /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				8180406B2B7FC97900CC48AB /* LaunchScreen.storyboard */,
 				818040662B7FC97500CC48AB /* Main.storyboard */,
 			);
 			path = Views;
